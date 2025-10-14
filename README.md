@@ -28,7 +28,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack Development. I 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase PostgreSQL](https://img.shields.io/badge/-Supabase%20PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase PostgreSQL](https://img.shields.io/badge/-Supabase_PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
