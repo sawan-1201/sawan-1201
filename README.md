@@ -61,7 +61,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack Development. I 
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sawan-chourasia-842358238)
-[![Portfolio](https://img.shields.io/badge/-Check_My_Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sawan-1201/)
+[![Portfolio](https://img.shields.io/badge/-Check_My_Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sawan-dev.netlify.app)
 
 ---
 
