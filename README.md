@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Sawan
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F95F7&center=true&vCenter=true&width=435&lines=FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F95F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer specializing in MERN Stack Development. I love building robust applications that solve real-world problems.
+I'm a passionate Full Stack Developer specializing in MERN Stack and Android Development. I love building robust applications that solve real-world problems.
 
-- 🔭 I'm currently working on my portfolio with innovative projects
+- 🔭 I'm currently working on expanding my portfolio with innovative projects
 - 🌱 I'm continuously learning and staying updated with the latest tech trends
-- 📫 Reach me at: sawanchourasia02@gmail.com
+- 📫 Reach me at: ananddev9463@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack Development. I 
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -49,22 +49,32 @@ I'm a passionate Full Stack Developer specializing in MERN Stack Development. I 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawan-1201&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawan-1201&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sawan-1201&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sawan-chourasia-842358238)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sawan-chourasia-842358238)
 [![Portfolio](https://img.shields.io/badge/-Check_My_Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sawan-dev.netlify.app)
 
 ---
 
 <div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 📈 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sawan-1201/sawan-1201/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sawan-1201/sawan-1201/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sawan-1201/sawan-1201/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sawan-1201&color=blue" alt="Profile Views" />
 </div>
+
