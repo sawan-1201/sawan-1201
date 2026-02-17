@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer specializing in MERN Stack and Android Dev
 
 - 🔭 I'm currently working on expanding my portfolio with innovative projects
 - 🌱 I'm continuously learning and staying updated with the latest tech trends
-- 📫 Reach me at: ananddev9463@gmail.com
+- 📫 Reach me at: sawanchourasia02@gmail.com
 
 ## 🛠️ Tech Stack
 
